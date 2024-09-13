@@ -10,3 +10,4 @@ X = data.iloc[:, 0]
 Y = data.iloc[:, 1]
 plt.scatter(X, Y)
 plt.show()
+
